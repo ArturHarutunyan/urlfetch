@@ -1,0 +1,1 @@
+Copy **_/api/configs.example.php_** to **_/api/configs.php_**
